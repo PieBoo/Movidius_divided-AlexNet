@@ -1,6 +1,6 @@
 Movidius_divided-AlexNet
 ====
-### This material for the users of Intel Movidius. A successful example of dividing Alexnet into two part and execute on Intel Movidius.
+**This material for the users of Intel Movidius. A successful example of dividing Alexnet into two part and execute on Intel Movidius.**
 
 There are two folders and one image: <br> 
 Folder 1 - "AlexNet all" is a complete network architecture. <br>
